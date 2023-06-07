@@ -1,13 +1,7 @@
 # MaxEditor
 Your new way to code
 
-"I may or may not finish this."
+"We may or may not finish this."
 - johnny-builder
-- Drimerdev
 
-## Want to use in advance?
-#### how to download?
-#### how to install on my machine?
-
-### Response
-you can't download now but you can help to build it!
+This is another unfinished project, mostly a **side-project**, our current focus is [![CoverFlowOS](https://img.shields.io/badge/CoverFlowOS-blue?logo=github&logoColor=white)](https://github.com/DrawDrimer/CoverflowOS) and [![Choons](https://img.shields.io/badge/Choons-blue?logo=itunes&logoColor=white)](https://github.com/DrawDrimer/Choons-player).
